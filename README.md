@@ -15,3 +15,4 @@ Checkout Chris's [README](https://github.com/chris--young/browser-recognition/bl
 4. `pip install Flask` or `pip install -r requirements.txt`
 5. `export FLASK_APP=py-browser-recognition.py`
 6. `flask run`
+7. `curl http://localhost:5000/` in a new shell or open using a browser
